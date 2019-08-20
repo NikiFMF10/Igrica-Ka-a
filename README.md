@@ -1,2 +1,2 @@
-# Igrica-Ka-a
+# Igrica-Kača
 To je moja projektna naloga
