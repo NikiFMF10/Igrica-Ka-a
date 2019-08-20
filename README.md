@@ -1,2 +1,2 @@
-# Igrica-Kača
-To je moja projektna naloga
+# Moja projektna naloga
+Igrica Kača
