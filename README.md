@@ -1,2 +1,2 @@
-# Moja projektna naloga
-Igrica Kača
+# Igrica Kača
+Projektna naloga za UVP
