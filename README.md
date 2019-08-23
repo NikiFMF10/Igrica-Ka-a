@@ -1,2 +1,2 @@
-# Igrica Kača
+# Igra Kača
 Projektna naloga za UVP
