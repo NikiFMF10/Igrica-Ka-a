@@ -169,7 +169,5 @@ def konecigre ():
     turtle.mainloop()
     
         
-
-
 if __name__ == '__main__':
     začetni(0,0)
