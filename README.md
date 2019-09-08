@@ -1,2 +1,2 @@
 # Igra Kača
-Projektna naloga za UVP
+Projektna naloga za predmet Uvod v programiranje
