@@ -126,3 +126,4 @@ class Vmesnik:
 
 if __name__ == '__main__':
     vmesnik = Vmesnik()
+
