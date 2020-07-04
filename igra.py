@@ -126,3 +126,4 @@ class Igra:
             return 180
         else:
             return 270
+            
